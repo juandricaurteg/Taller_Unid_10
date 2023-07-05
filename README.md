@@ -13,3 +13,7 @@
 <img 
 src="./public/images/connection.PNG" 
 alt="connection">
+<h3>Punto 7 - Muestra de datos en pantalla</h3>
+<img 
+src="./public/images/bd.PNG" 
+alt="connection">

@@ -22,7 +22,7 @@ class users{
         return $this->id;
     }
     public function getName(){
-        return $this->Name;
+        return $this->name;
     }
     public function getLastName(){
         return $this->lastName;

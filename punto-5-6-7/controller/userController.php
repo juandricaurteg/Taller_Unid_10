@@ -3,11 +3,11 @@
 include "./service/userDAO.php";
 include "./model/users.php";
 function getUsers(){
-    $userrQuer = getAllUsers();
+    $userQuery = getAllUsers();
 
     $usersList = array();
-    while($row= mysqli_fetch_assoc($userrQuery)){
-        $user= new User(
+    while($row = mysqli_fetch_assoc($userQuery)){
+        $user= new Users(
             $row["id"],
             $row["nombre"],
             $row["apellido"],
