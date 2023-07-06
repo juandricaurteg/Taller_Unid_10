@@ -1,0 +1,14 @@
+.table-container{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+}
+th{
+    font-size: 18px;
+    font-weight: bold;
+}
+td{
+    font-size: 18px;
+}

@@ -1,0 +1,14 @@
+.form__row{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px 0px;
+}
+p{
+    font-size:22px;
+    color: darkgreen;
+    font-weight: bold;
+}
+h3{
+    font-size:25px;
+}
