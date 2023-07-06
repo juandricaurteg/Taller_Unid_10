@@ -16,7 +16,7 @@
     <?php include "../components/tabla.php"?>
 
   <div>
-  <p><a href="../../index.html">Regresar</a></p>
+  <p><a href="../../index.php">Regresar</a></p>
   </div>
 </body>
 </html>

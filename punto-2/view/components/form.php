@@ -20,5 +20,5 @@
 
     </div>
     <button>Calcular</button>
-    <p><a href="../index.html">Regresar</a></p>
+    <p><a href="../index.php">Regresar</a></p>
 </form>

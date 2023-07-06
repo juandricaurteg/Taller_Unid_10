@@ -12,6 +12,6 @@
 <H1>Proyecto Base de datos</H1>
 <hr>
 <?php include "./view/components/table.php"?>
-<p><a href="../index.html">Regresar</a></p>
+<p><a href="../index.php">Regresar</a></p>
 </body>
 </html>
